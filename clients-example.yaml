@@ -1,0 +1,10 @@
+---
+# YAML is fun!
+- name: "john smith"
+  balance: 19
+  is_happy: false
+- name: "jane doe"
+  balance: 0
+  is_happy: true
+...
+  

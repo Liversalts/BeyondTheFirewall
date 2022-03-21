@@ -1,0 +1,14 @@
+{
+	"customer_list": [
+		{
+			"name": "john smith",
+			"balance": 19,
+			"is happy": false
+		},
+		{
+			"name": "jane doe",
+			"balance": 0,
+			"is happy": true
+		}
+	]
+}

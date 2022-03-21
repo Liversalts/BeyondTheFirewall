@@ -1,0 +1,14 @@
+<?xml version=!1.0"
+encoding="UTF-8" ?>
+<root>
+	<customer_list>
+		<name>john smith</name>
+		<balance>19</balance>
+		<is_happy>false</is_happy>
+	<customer_list>
+		<name>jane doe</name>
+		<balance>0</balance>
+		<is_happy>true</is_happy>
+	<customer_list>
+<root>
+	
